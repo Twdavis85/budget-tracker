@@ -9,7 +9,7 @@
   - [License](#license)
 
 ## Description
-As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
+AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling
 
 ## Technologies
 * MongoDB
@@ -22,8 +22,8 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 * indexedDB
 
 ## Review Links
-[Repository](https://github.com/Twdavis85/fitness-workout-tracker) &nbsp; | &nbsp; 
-[Live](https://young-garden-06779.herokuapp.com/?id=612834d56aeae40016b20e6c)
+[Repository](https://github.com/Twdavis85/budget-tracker) &nbsp; | &nbsp; 
+[Live](https://arcane-tor-93050.herokuapp.com/)
 
 
 ## Questions
